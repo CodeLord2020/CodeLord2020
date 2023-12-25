@@ -15,3 +15,4 @@ Data Science (Scikit-learn, TensorFlow).
    +2347087726266
 
 - ⚡ Fun fact: he longest snake ever recorded was a Python reticulatus that measured over 33 feet long!
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

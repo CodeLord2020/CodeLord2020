@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋  I'm Adebayo Rasheed, a Pythonista passionate about building web applications and exploring the world of data.
 
-<!--
-**CodeLord2020/CodeLord2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack:
+FrontEnd Technologies (HTML, CSS, JS, React, HTMX).
+Python (Django, Flask, FastAPI).
+Data Analysis (Pandas, NumPy, Matplotlib).
+Data Science (Scikit-learn, TensorFlow).
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He, Him
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Django projects as a backend developer.
+- 💬 Ask me about Troubleshooting or Problem-Solving Tips, Resource Recommendations.
+- 📫 How to reach me:
+   ✉️ rasheedbabatunde76@gmail.com
+   +2347087726266
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: he longest snake ever recorded was a Python reticulatus that measured over 33 feet long!

@@ -7,7 +7,7 @@ Data Analysis (Pandas, NumPy, Matplotlib).
 Data Science (Scikit-learn, TensorFlow).
 
 - 😄 Pronouns: He, Him
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning C# .NET Core 
 - 👯 I’m looking to collaborate on Django projects as a backend developer.
 - 💬 Ask me about Troubleshooting or Problem-Solving Tips, Resource Recommendations.
 - 📫 How to reach me:

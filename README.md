@@ -18,5 +18,4 @@ Data Science (Scikit-learn, TensorFlow).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeLord2020&include_all_commits=true&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLord2020&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CodeLord2020)](https://git.io/streak-stats)

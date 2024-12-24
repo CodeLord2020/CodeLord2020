@@ -18,3 +18,4 @@ Data Science (Scikit-learn, TensorFlow).
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CodeLord2020)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeLord2020)](https://git.io/streak-stats)

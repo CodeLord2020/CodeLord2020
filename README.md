@@ -10,7 +10,7 @@ Tech Stack:
 
 
 - 🌱 I’m currently learning C# .NET Core  for web APIs
-- 👯 I’m looking to collaborate on Django projects as a backend developer.
+- 👯 I’m looking to collaborate on C# and Python projects as a backend developer.
 - 💬 Ask me about Troubleshooting or Problem-Solving Tips, Resource Recommendations.
 - 📫 How to reach me:
    ✉️ rasheedbabatunde76@gmail.com

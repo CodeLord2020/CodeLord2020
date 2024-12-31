@@ -2,7 +2,7 @@
 
 Tech Stack:
 - 😄 Pronouns: He, Him
-- FrontEnd Technologies (HTML, CSS, JS, Bootstrap, React, HTMX).
+- FrontEnd Technologies (HTML, CSS, JS, Bootstrap, HTMX).
 - Python (Django, Flask, FastAPI, NINJA, ASP.Net Core).
 - Data Analysis (Pandas, NumPy, Matplotlib, Statistic).
 - Data Science (Scikit-learn, TensorFlow, ML, NLP).

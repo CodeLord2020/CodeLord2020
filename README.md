@@ -16,6 +16,4 @@ Tech Stack:
    ✉️ rasheedbabatunde76@gmail.com
    +2347087726266
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeLord2020&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeLord2020)](https://git.io/streak-stats)
